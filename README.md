@@ -1,18 +1,31 @@
-# E-Commerce Sales Analysis
+# E-Commerce Sales Data Cleaning Project
 
 ## Description
-This project analyzes an E-Commerce Sales Dataset using Microsoft Excel. The analysis focuses on cleaning the dataset, creating pivot tables, generating charts, and identifying key business insights from sales transactions.
-The project helps understand sales performance, product demand, revenue trends, and order status distribution through data visualization and descriptive analysis.
+This project focuses on cleaning and preparing an E-Commerce Sales dataset using Microsoft Excel. The dataset was transformed from a raw, unorganized format into a clean and structured dataset suitable for analysis and reporting.
 
 ## How to Run the Project
+1. Download the Excel file from this repository.
+2. Open the file using Microsoft Excel.
+3. View the raw data sheet to see the original dataset.
+4. View the cleaned data sheet to see the transformed dataset.
 
-1. Download the Excel file.
-2. Open the workbook in Microsoft Excel.
-3. Navigate through the worksheets:
-   - Raw Dataset
-   - Cleaned Dataset
-   - Pivot Tables
-   - Charts
+## Data Cleaning Tasks Performed
+1. Removed duplicate records.
+2. Handled missing or blank values.
+3. Corrected inconsistent data entries.
+4. Standardized data formatting.
+5. Verified data accuracy and consistency.
+6. Prepared the dataset for future analysis.
+
+## Tools Used
+- Microsoft Excel
+
+## Files Included
+- Dataset for Data Analytics.xlsx
+- README.md
+
+## Outcome
+The dataset is now clean, organized, and ready for data analysis, visualization, and reporting.
    - Key Insights
 4. Review the visualizations and observations to understand the business performance.
 
